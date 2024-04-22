@@ -1,5 +1,4 @@
-# Hello, I'm @issyugk3!
-
+# Hello / 你好 / こんにちは, I'm @issyugk3 !
 - I'm an undergraduate student majoring in **Software Engineering** at **Zhejiang University of Technology (ZJUT)**.
 - I'm presently affiliated with @KechengZheng's lab at ZJUT.
 - My interests mainly revolve around **Computer Vision**, with a focus on medical image processing, **Cognitive Radio Network**, and **Data Visualization** (just started).
