@@ -6,5 +6,5 @@
 - 今、日本語も勉強している(年中のJLPTーN1を取りたいね).
 - I mainly blogged on my personal Wechat Media Platform `寻找拧发条鸟` and, yes, I'm a fan of Haruki Murakami, the Japanese writer.
 - I have another github account for saving up my Java Web or some other projects. This account @issyugk3 is mainly for work and acdameic reasons. 
-- For any inquiries, feel free to contact me via email at `xwzhou.sgk@outlook.com` or `xwzhou.sgk.github@outlook.com` - both work the same!
+- For any inquiries, feel free to contact me via email at `xwzhou.sgk@gmail.com` or `xwzhou.sgk@outlook.com` - both work the same!
 ![image](https://github.com/issyugk3/issyugk3/blob/main/hacker_a.gif)
