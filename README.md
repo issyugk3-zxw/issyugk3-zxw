@@ -8,6 +8,7 @@
 - I have another github account for saving up my Java Web or some other projects. This account @issyugk3 is mainly for work and acdameic reasons. 
 - For any inquiries, feel free to contact me via email at `xwzhou.sgk@gmail.com`.
 <br>
+
 [![My Skills](https://skillicons.dev/icons?i=python,java,pytorch,vue,docker,mysql,js,html,css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux,latex,md)](https://skillicons.dev)
 
