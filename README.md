@@ -7,6 +7,7 @@
 - I mainly blogged on my personal Wechat Media Platform `寻找拧发条鸟` and, yes, I'm a fan of Haruki Murakami, the Japanese writer.
 - I have another github account for saving up my Java Web or some other projects. This account @issyugk3 is mainly for work and acdameic reasons. 
 - For any inquiries, feel free to contact me via email at `xwzhou.sgk@gmail.com`.
-[![My Skills](https://skillicons.dev/icons?i=python,java,springboot,ts,docker,mysql,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,pytorch,vue,docker,mysql,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,latex,md)](https://skillicons.dev)
 
 ![image](https://github.com/issyugk3/issyugk3/blob/main/hacker_a.gif)
