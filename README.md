@@ -1,6 +1,6 @@
 # Hello / 你好 / こんにちは, I'm @issyugk3 !
 - I'm an undergraduate student majoring in **Software Engineering** at **Zhejiang University of Technology (ZJUT)**.
-- I'm presently affiliated with @KechengZheng's lab at ZJUT.
+- I will be joining in Nakato Lab at **The University of Tokyo in October as a master's student under Prof.Nakato's supervision**. I will be focus on the field of computational biology and AI4S. 
 - My interests mainly revolve around **Computer Vision**, with a focus on medical image processing, **Computational Biology**(just started learning, hope it goes well), and **Data Visualization** .
 - Currently, I'm delving into **Deep Reinforcement Learning** and **Optimization**, alongside exploring **Deep Learning for Medical Image Processing** and algorithms like **LIME** for explaining Deep Learning models. It's quite a broad spectrum, but I'm all about expanding my horizons before graduating.
 - 今、日本語勉強している. JLPTのN１レベルようやく合格しました！（２０２４０８２６）
