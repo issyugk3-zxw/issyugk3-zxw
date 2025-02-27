@@ -1,8 +1,8 @@
 # Hello / 你好 / こんにちは, I'm @issyugk3 !
 - I'm an undergraduate student majoring in **Software Engineering** at **Zhejiang University of Technology (ZJUT)**.
-- I will be joining in Nakato Lab at **The University of Tokyo in October as a master's student under Prof.Nakato's supervision**. I will be focus on the field of computational biology and AI4S. 
-- My interests mainly revolve around **Computer Vision**, with a focus on medical image processing, **Computational Biology**(just started learning, hope it goes well), and **Data Visualization** .
-- Currently, I'm delving into **Deep Reinforcement Learning** and **Optimization**, alongside exploring **Deep Learning for Medical Image Processing** and algorithms like **LIME** for explaining Deep Learning models. It's quite a broad spectrum, but I'm all about expanding my horizons before graduating.
+- I will be joining in  *Nakato Lab* at **The University of Tokyo** in October as a master's student under Prof.Nakato's supervision. I will be focusing on the field of computational biology/bioinformatics and AI4S. I am new to this area but I am excited to take the challenges! 
+- My interests mainly revolve around  **Computational Biology**(just started learning, hope it goes well), **Data Visualization**. I used to participated in the field of **Computer Networks**, and **Computer Vision**, with a focus on medical image processing.
+- Currently, I'm delving into machine/deep learning theories on generative models.
 - 今、日本語勉強している. JLPTのN１レベルようやく合格しました！（２０２４０８２６）
 - I mainly blogged on my personal Wechat Media Platform `寻找拧发条鸟` and, yes, I'm a fan of Haruki Murakami, the Japanese writer.
 - I have another github account for saving up my Java Web or some other projects. This account @issyugk3 is mainly for work and acdameic reasons. 
