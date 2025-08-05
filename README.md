@@ -5,8 +5,8 @@ My research is centered on the intersection of computational genomics and artifi
 
 I am new to this area, but I am excited to take challenges.
 ## Education
-- Master student in Science | Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo | 2025.10-current | Supervisor: Prof.Ryuichiro NAKATO.
-- B.Eng in Software Engineering | College of Computer Science and Technology, Zhejiang University of Technology | 2021.09-2025.06 | Supervisor: Prof.Kechen ZHENG.
+- Master student of Science | Computational Biology and Medical Sciences -  Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo | 2025.10-current | Supervisor: Prof.Ryuichiro NAKATO.
+- Bachelor of Engineering | Software Engineering - School of Computer Science and Technology, Zhejiang University of Technology | 2021.09-2025.06 | Supervisor: Prof.Kechen ZHENG.
 ## Other Information
 - Currently, I'm delving into machine/deep learning theories on generative models.
 - 今、日本語勉強している. JLPTのN１レベルようやく合格しました！（２０２４０８２６）
