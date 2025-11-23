@@ -1,5 +1,5 @@
 # Hello / 你好 / こんにちは, I'm @issyugk3-zxw !
-I am currently a master student in **Nakato Laboratory at UTokyo** under **Prof.Ryuichiro NAKATO**'s supervision.
+I am currently a master student in **Laboratory of Computational Genomics of IQB at UTokyo** under **Prof.Ryuichiro NAKATO**'s supervision.
 
 My research is centered on the intersection of computational genomics and artificial intelligence. I am passionate about developing and applying sophisticated deep learning algorithms to analyze large-scale omics data. The core of my work would involve identifying meaningful patterns and signatures within the genome that can elucidate the mechanisms of disease. By harnessing the predictive power of advanced machine learning models, I aim to forecast potential disease trajectories and contribute to the development of more precise and personalized medicine.
 
